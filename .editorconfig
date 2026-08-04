@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS1555: Não foi possível encontrar "ConsoleExecBus.Program" especificado para o método Main
+dotnet_diagnostic.CS1555.severity = none

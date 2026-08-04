@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleExecBUs": {
+      "commandName": "Project",
+      "commandLineArgs": "-usuarioExtra A79578 -senhaExtra Dont1Sto"
+    }
+  }
+}
